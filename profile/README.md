@@ -5,3 +5,5 @@
 | --- | --- | --- |
 | Tountas Iakovos Iason | 2019034 | [u2nmd](https://github.com/u2nmd) |
 | Paschalis Thomas Spuridon | 2019110 | [p19pasc](https://github.com/p19pasc) |
+| Kampani Vasileios Mpasir | 2019014 | [vasiliskampani](https://github.com/vasiliskampani) |
+| Sarakatsanis Xaralampos | 2019150 | [P2019SARAKATSANIS](https://github.com/P2019SARAKATSANIS) |
