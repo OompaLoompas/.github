@@ -14,3 +14,4 @@
 | Stoupi Soultana Andriana | 2019169 | [TaniaStoupi](https://github.com/TaniaStoupi) |
 | Skleparis Konstantinos | 2019044 | [p2019044](https://github.com/p2019044) |
 | Zervakis Theodoros | 2019107 | [TheodoreZ-107](https://github.com/TheodoreZ-107) |
+| Loli Vasiliki | 2019038 | [p19loli](https://github.com/p19loli) |
